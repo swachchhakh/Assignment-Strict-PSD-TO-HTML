@@ -87,6 +87,13 @@ img{
     border: 1px solid #15A4FA;
 }
 
+.action:hover{
+	background-color: #15A4FA;
+	transition: all 0.4s ease;
+	-webkit-transition: all 0.4s ease;
+	-moz-transition: all 0.4s ease;
+}
+
 .banner-content a{
 	color: white;
     font-size: 20px;
